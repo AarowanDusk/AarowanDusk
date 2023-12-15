@@ -25,7 +25,7 @@
     <img src="https://skillicons.dev/icons?i=unrealengine,cpp,c,cs,git,js,jquery,php,mysql,html,css,python,angular,dotnet&perline=6" />
 </div>
 
-<h3 align="left">Connect me at any time : (bjgogoi1996@outlook.com)</h3>
+<h3 align="left">Connect with me at any time : (bjgogoi1996@outlook.com)</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhargav-gogoi-47a12125b/?original_referer=https%3A%2F%2Fgithub.com%2F" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110322488/211968887-81c5ced8-9250-495b-80f7-fd54c45fdee2.png" alt="https://www.linkedin.com/in/bhargav-gogoi-47a12125b/?original_referer=https%3A%2F%2Fgithub.com%2F" height="30" width="30" /></a>
 </p>
