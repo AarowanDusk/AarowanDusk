@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools :</h3>
 <div style="display: flex; align-items: center;">
-    <img src="https://skillicons.dev/icons?i=unrealengine,cpp,c,cs,git,js,jquery,php,mysql,html,css,python,angular,dotnet&perline=6" />
+    <img src="https://skillicons.dev/icons?i=unrealengine,cpp,c,cs,git,dotnet,js,jquery,php,mysql,html,css,python,angular&perline=6" />
 </div>
 
 <h3 align="left">Connect with me at any time : (bjgogoi1996@outlook.com)</h3>
