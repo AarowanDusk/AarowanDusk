@@ -1,11 +1,12 @@
-<h1 align="center">Welcome, my name is Bhargav Jt. Gogoi also known as Aarowan Vespera</h1>
+<h1 align="center">Welcome, my name is Aarowan Vespera</h1>
 <h3 align="center">As I like to call myself, basically an idiot!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 - 🔭 I love making games, and i fell in love with Unreal Engine
 
 - 💬 Ask me about **Philosophy**
 
-- 📫 How to reach me **bjgogoi1996@outlook.com**
+- 📫 How to reach me **aarowan.1996@gmail.com
+**
 
 - 📚 I like to read books and also to play games, and has lots of fun cheating!
 
@@ -24,5 +25,5 @@
     <img src="https://skillicons.dev/icons?i=unrealengine,cpp,c,cs,git,dotnet,js,jquery,php,mysql,html,css,python,angular&perline=6" />
 </div>
 
-<h3 align="left">Connect with me at any time : (bjgogoi1996@outlook.com)</h3>
+<h3 align="left">Connect with me at any time : (aarowan.1996@gmail.com)</h3>
 
