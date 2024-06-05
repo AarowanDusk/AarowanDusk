@@ -1,6 +1,7 @@
 <h1 align="center">Welcome, my name is Aarowan Vespera</h1>
 <h3 align="center">As I like to call myself, basically an idiot!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
+</br>
 - 🔭 I love making games, and i fell in love with Unreal Engine
 
 - 💬 Ask me about **Philosophy**
