@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Philosophy**
 
-- 📫 How to reach me **momentaworks@gmail.com**
+- 📫 How to reach me **aarowan.1996@gmail.com**
 
 - 📚 I like to read books and also to play games, and has lots of fun cheating!
 
